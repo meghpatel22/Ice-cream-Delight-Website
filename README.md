@@ -28,16 +28,17 @@
 
 IceCreamDelight/
 │
-├── static/ # Static assets like CSS/images
-├── templates/ # HTML templates
-│ ├── user_login.html
-│ ├── admin_login.html
-│ ├── registration.html
-│ ├── index.html
-│ └── frame-18.html
+├── static/                  # Static assets like CSS/images
+├── templates/               # HTML templates
+│   ├── user_login.html
+│   ├── admin_login.html
+│   ├── registration.html
+│   ├── index.html
+│   └── frame-18.html
 │
-├── app.py # Main Flask application
-└── README.md # Project documentation
+├── app.py                   # Main Flask application
+└── README.md                # Project documentation
+
 
 ---
 
